@@ -1,0 +1,1 @@
+document.querySelectorAll('.diwali-deals-product-sale-btn').forEach(e => e.textContent = 'Check Out')
