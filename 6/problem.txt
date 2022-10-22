@@ -1,2 +1,10 @@
 The reason is not known why this is not working.
 the code seems to be correct.
+
+problem solved
+
+Notice that in our html file, we placed the index.js script after the DOM elements. This is important because if you run the script before having created the DOM elements, they won't be accessible in your JS code.
+
+and you were adding evennt listener on not an valid dom element
+
+and getelementbyclassname reutrn html so you have to add by [0] so nice error

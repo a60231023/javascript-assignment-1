@@ -102,7 +102,7 @@
 
 ### Output
 
-![Output](6/Pic11.png)
+![Output](<6/Screenshot%20(1022).png>)
 
 7. Webiste Name: [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
@@ -299,7 +299,7 @@ Target the top description and change “Matching developers with great companie
 
 ### Output
 
-![Output](./Pic32.png)
+![Output](<17/Screenshot%20(1023).png>)
 
 18. Webiste Name: [Philips](https://www.philips.co.in/)
 
